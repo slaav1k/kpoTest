@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JetpackJoyrideWpf", "JetpackJoyrideWpf\JetpackJoyrideWpf.csproj", "{BAFC679C-0CDE-4930-8DD5-0E12625BEADA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf", "wpf\Wpf.csproj", "{559D9C42-33BF-4B46-AB37-E1DB4B6249DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFC679C-0CDE-4930-8DD5-0E12625BEADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFC679C-0CDE-4930-8DD5-0E12625BEADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFC679C-0CDE-4930-8DD5-0E12625BEADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFC679C-0CDE-4930-8DD5-0E12625BEADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559D9C42-33BF-4B46-AB37-E1DB4B6249DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559D9C42-33BF-4B46-AB37-E1DB4B6249DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559D9C42-33BF-4B46-AB37-E1DB4B6249DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559D9C42-33BF-4B46-AB37-E1DB4B6249DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE0C587-10D0-4125-B4F3-960CAA27C83E}
+	EndGlobalSection
+EndGlobal
