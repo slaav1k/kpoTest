@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddHighScoreController" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAQAAAAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ConsoleControllers\AddHighScoreController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAIAAAAAAAAAAQAgEAAgAAAiAAIAAAAAAKAAABA=</HashCode>
+      <FileName>ConsoleControllers\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoresController" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAQIAAAAEAAABACAAAAAAAAA=</HashCode>
+      <FileName>ConsoleControllers\HighScoresController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MenuController" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAIAAAAAAAAAAAAAAICAAACAAAAA=</HashCode>
+      <FileName>ConsoleControllers\MenuController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RulesController" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ConsoleControllers\RulesController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameControllerBase" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
