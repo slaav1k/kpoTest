@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameStateBase" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABAgAAAAAAAGAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GameStateBase.cs</FileName>
+      <NewMemberFileName>models\GameStateBase.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseObstacle" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAQAAAYAA=</HashCode>
+      <FileName>Models\Obstacles\BaseObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Models\Obstacles\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Models\Obstacles\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAAAAABAAAAAQAAAAAAQEBAAAA=</HashCode>
+      <FileName>Models\Obstacles\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingObstacle" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Models\Obstacles\MovingObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBullet" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Models\Obstacles\PlayerBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticObstacle" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAQABAAAA=</HashCode>
+      <FileName>Models\Obstacles\StaticObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameModelBase" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WAYAAQAEAhUUBAokAgCAAAIgAACCKACAiQAAMwAAgBk=</HashCode>
+      <FileName>Models\GameModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
