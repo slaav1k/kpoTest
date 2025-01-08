@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddHighScoreView" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAA=</HashCode>
+      <FileName>ConsoleViews\AddHighScoreView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACwAAKiABxIgwAADAAAAgACAACFAAAAABAAQAEAAAI=</HashCode>
+      <FileName>ConsoleViews\ConsoleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoresView" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ConsoleViews\HighScoresView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuView" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAA=</HashCode>
+      <FileName>ConsoleViews\MenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RulesView" Collapsed="true">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ConsoleViews\RulesView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameViewBase" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HighScoresViewBase" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MenuViewBase" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="RulesViewBase" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
